@@ -1,4 +1,4 @@
-# BIGLEADER_2020
+# Predicting the crowded level of visitors to national parks using AI deep learning technology
 데이터 사이언스 및 AI 융합 기반의 빅리더 양성 아카데미 중 팀 프로젝트 수행
 
 <h5>사용 언어 및 Tool</h5>
